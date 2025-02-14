@@ -1,7 +1,4 @@
-/********* main.c ********
-    Student Name 	= Jordan Trach
-    Student Number	= 101293174
-*/
+/********* main.c *********/
 
 // Includes go here
 #include <stdlib.h>
