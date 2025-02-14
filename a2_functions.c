@@ -1,8 +1,3 @@
-/*****************
-    Student Name 	= Jordan Trach
-    Student Number	= 101293174
-*/
-
 #include <stdlib.h>
 #include <ctype.h>
 #include <stdio.h>
