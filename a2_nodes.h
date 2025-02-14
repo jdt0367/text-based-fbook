@@ -1,7 +1,4 @@
-/********* nodes.h ********
-    Student Name 	= Jordan Trach
-    Student Number	= 101293174
-*/
+/********* nodes.h *********/
 #ifndef __A2_BONUS_NODES_H__
 #define __A2_BONUS_NODES_H__
 
